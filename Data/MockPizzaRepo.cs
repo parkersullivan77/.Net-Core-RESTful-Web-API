@@ -23,7 +23,7 @@ namespace PizzaProblems.Data{
         {
             var pizzas = new List<Pizza>{
             new Pizza{name = "chicken",dough_type = "crusty",isCalzone = false,ingredients ="chicken"},
-            new Pizza{name = "lube city",dough_type = "wetboy",isCalzone = false,ingredients ="butts"},
+            new Pizza{name = "butter",dough_type = "noice",isCalzone = false,ingredients ="sauce"},
             };
             return pizzas;
         }
